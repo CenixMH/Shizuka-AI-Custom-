@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Kone457/Shizuka-AI",
+  "homepage": "https://github.com/CenixMH/Shizuka-AI-Custom-",
   "author": {
-    "name": "Carlos"
+    "name": "CenixMH"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kone457/Shizuka-AI.git"
+    "url": "git+https://github.com/CenixMH/Shizuka-AI-Custom-.git"
   },
   "bugs": {
-    "url": "https://github.com/Kone457/Shizuka-AI/issues"
+    "url": "https://github.com/CenixMH/Shizuka-AI-Custom-/issues"
   },
   "license": "MIT-License",
   "dependencies": {
