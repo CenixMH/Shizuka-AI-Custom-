@@ -14,9 +14,9 @@ global.botNumber = '' //Ejemplo: 123456789
 
 global.owner = [
 
-  ['5355699866', '🜲 Propietario 🜲', true],
+  ['5353718509', '🜲 Propietario 🜲', true],
 
-  ['+5355699866'],
+  ['+5353718509'],
 
   ['261271484104740'],
 
@@ -28,7 +28,7 @@ global.owner = [
 
 //-----------------------------
 
-global.mods = ['5355699866']
+global.mods = ['5353718509']
 global.suittag = ['5355699866'] 
 global.prems = []
 
@@ -68,7 +68,7 @@ global.gp1 = 'https://chat.whatsapp.com/FULTpMKUnwcI6zR7LT3qsW'
 global.comunidad1 = 'https://chat.whatsapp.com/KUQIRhtLBir2FhiiFuqbGO'
 global.channel = 'https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v'
 global.channel2 = 'https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v'
-global.md = 'https://github.com/Kone457/Shizuka-AI'
+global.md = 'https://github.com/CenixMH/Shizuka-AI-Custom-'
 global.correo = 'c2117620@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v';
 
